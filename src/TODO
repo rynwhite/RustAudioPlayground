@@ -1,0 +1,3 @@
+- set process fn to use f32 for incoming buffers
+- provide sample rate as part of the audio builder in process fn
+
